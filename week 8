@@ -1,0 +1,24 @@
+README.md File Content
+
+File Read & Write Challenge and Error Handling Lab
+
+This project demonstrates a Python program that reads a file, modifies its content, and writes it to a new file while handling potential errors. The program asks the user for a filename, attempts to read the file, and writes a modified version to a new file.
+
+Objectives
+- Read a file and modify its content
+- Write the modified content to a new file
+- Handle potential errors such as file not found or permission issues
+
+Tools and Libraries Used
+- Python 3.x
+- Built-in Python libraries: input, open, try-except block for error handling
+
+How to Run/View the Project
+1. Clone the repository to your local machine.
+2. Open a terminal or command prompt and navigate to the project directory.
+3. Run the Python script using the command python filename.py (replace filename.py with the actual name of the Python script).
+4. Enter the filename when prompted.
+5. The program will display the content of the file, modify it, and write it to a new file.
+
+Insights or Reflections
+This project demonstrates basic file input/output operations in Python and error handling using try-except blocks. It highlights the importance of handling potential errors when working with files to ensure robustness and prevent crashes.
